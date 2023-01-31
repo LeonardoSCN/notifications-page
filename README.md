@@ -5,8 +5,8 @@ Notifications page from Frontend Mentor Challenges.
 This is a challenge from Frontend Mentor Challenges.
 Tecnologys useded:
 
-HTML
-CSS
+HTML,
+CSS,
 Javascript
 
 
